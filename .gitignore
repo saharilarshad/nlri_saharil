@@ -3,7 +3,7 @@
 /backend/dist
 /backend/node_modules
 /client/node_modules
-/clientx/.next
+/client/.next
 /build
 
 # Logs
